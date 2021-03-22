@@ -16,3 +16,4 @@
 db.*
 /wsgi/private/
 /wsgi/media/problems/
+README.md
